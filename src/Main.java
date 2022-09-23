@@ -118,7 +118,7 @@ public class Main {
         System.out.println("Денис теперь получает " + denisMonthAfter + " рублей. Годовой доход вырос на " + denisYearDifference + " рублей.");
         System.out.println("Кристина теперь получает " + kristinaMonthAfter + " рублей. Годовой доход вырос на " + kristinaYearDifference + " рублей.");
 
-        System.out.println("Спасибо за проверку!!!");
+        System.out.println("Спасибо за проверку!");
 
 
 
